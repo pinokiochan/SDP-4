@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BasicCalculator/BasicCalculator.iml" filepath="$PROJECT_DIR$/BasicCalculator/BasicCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/MementoMori/MementoMori.iml" filepath="$PROJECT_DIR$/MementoMori/MementoMori.iml" />
+      <module fileurl="file://$PROJECT_DIR$/News/News.iml" filepath="$PROJECT_DIR$/News/News.iml" />
       <module fileurl="file://$PROJECT_DIR$/SDP_4.iml" filepath="$PROJECT_DIR$/SDP_4.iml" />
     </modules>
   </component>
